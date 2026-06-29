@@ -1,0 +1,17 @@
+# Build output
+build/
+dist/
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# py2app
+*.egg-info/
